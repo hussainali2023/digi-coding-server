@@ -1,0 +1,127 @@
+[
+  {
+    "id": "01",
+    "title": "Web Developement",
+    "subtitle": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, Express, MongoDB",
+    "courseUrl": "https://www.programming-hero.com/blog/assets/images/blog/web-development-from-scratch.png",
+    "ratings": "4.5",
+    "reviews": "3k+",
+    "duration": "12 Weeks",
+    "description": "On this Web Developement course you will first build a website using HTML style it with CSS, and then make it interactive using JavaScript.Along the way you Will learn about the box model, which describes how websites are laid out by browsers, and about the Document Object Model which your JavaScript code will interact with to dynamically change your web pages.In the final week, you’ll design and create a quiz web page and demonstrate your new skills by making your own website.",
+    "topics": [
+      "HTML 5",
+      "CSS 3",
+      "Javascript ES-6",
+      "DOM Manipulation",
+      "Node Js",
+      "React Js",
+      "Api",
+      "Express Js",
+      "MongoDB"
+    ]
+  },
+  {
+    "id": "02",
+    "title": "The Complete JavaScript Course",
+    "subtitle": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+    "courseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+    "ratings": "4.7",
+    "reviews": "5k+",
+    "duration": "8 Weeks",
+    "description": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
+    "topics": [
+      "Javascript Fundamental (Array, Function, Objects)",
+      "Modern Javascript(ES-6)",
+      "Object Oriented Programming",
+      "Behind the Scene (Hoising, Call stack, scoping, 'this keyword",
+      "Asynchronous JavaScript: async/await, event loop, promises, error handling, Third Party APIs with AJAX",
+      "Other: NPM, Babel"
+    ]
+  },
+  {
+    "id": "03",
+    "title": "Complete Python Bootcamp",
+    "subtitle": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+    "courseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png",
+    "ratings": "4.6",
+    "reviews": "4k+",
+    "duration": "10 Weeks",
+    "description": "This is the most comprehensive, yet straight-forward, course for the Python programming language. Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3.With over 100 lectures and more than 21 hours of video this comprehensive course leaves no stone unturned! This course includes quizzes, tests, coding exercises and homework assignments as well as 3 major projects to create a Python project portfolio!",
+    "topics": [
+      "Command Line Basics",
+      "Strings",
+      "Dictionaries",
+      "Tuples",
+      "Sets",
+      "Functions",
+      "Scope",
+      "Debugging and Error Handling",
+      "Object Oriented Programming",
+      "Polymorphism",
+      "Advanced Methods"
+    ]
+  },
+  {
+    "id": "04",
+    "title": "Flutter Development Bootcamp with Dart",
+    "subtitle": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps",
+    "courseUrl": "https://storage.googleapis.com/cms-storage-bucket/70760bf1e88b184bb1bc.png",
+    "ratings": "4.8",
+    "reviews": "6k+",
+    "duration": "6 Weeks",
+    "description": "Flutter - a framework developed by Google - allows you to learn one language (Dart) and build beautiful native mobile apps in no time. Flutter is a SDK providing the tooling to compile Dart code into native code and it also gives you a rich set of pre-built and pre-styled UI elements (so called widgets) which you can use to compose your user interfaces.",
+    "topics": [
+      "Detailed setup instructions for both macOS and Windows",
+      "A thorough introduction to Flutter, Dart and the concept behind widgets",
+      "An overview of the built-in widgets and how you may add your own ones Debugging tipps & tricks",
+      "Page navigation with tabs, side drawers and stack-based navigation",
+      "State management solutions",
+      "Handling and validating user input",
+      "Connecting your Flutter app to backend servers by sending Http requests",
+      "Push Notifications - manual approach and automated",
+      "Using native device features like the camera",
+      "And More"
+    ]
+  },
+  {
+    "id": "05",
+    "title": "Complete Data Science Bootcamp",
+    "subtitle": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+    "courseUrl": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+    "ratings": "4.5",
+    "reviews": "2k+",
+    "duration": "16 Weeks",
+    "description": "Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace. However, supply has been very limited. It is difficult to acquire the skills necessary to be hired as a data scientist.    ",
+    "topics": [
+      "Understanding of the data science field and the type of analysis carried out  ",
+      "Mathematics",
+      "Statistics",
+      "Python",
+      "Applying advanced statistical techniques in Python",
+      "Data Visualization",
+      "Machine Learning",
+      "Deep Learning",
+      "And More"
+    ]
+  },
+  {
+    "id": "06",
+    "title": "Complete Golang Course",
+    "subtitle": "Master the fundamentals and advanced features of the Go Programming Language (Golang)",
+    "courseUrl": "https://miro.medium.com/max/1400/1*Ifpd_HtDiK9u6h68SZgNuA.png",
+    "ratings": "4.6",
+    "reviews": "3k+",
+    "duration": "7 Weeks",
+    "description": "Go is an open source programming language created by Google.  As one of the fastest growing languages in terms of popularity, its a great time to pick up the basics of Go!. This course is designed to get you up and running as fast as possible with Go.  We'll quickly cover the basics, then dive into some of the more advanced features of the language.  Don't be tricked by other courses that only teach you for-loops and if-statements!  This is the only course on Udemy that will teach you how to use the full power of Go's concurrency model and interface type systems.",
+    "topics": [
+      "Understand the basic syntax and control structures of the language",
+      "Apply Go's concurrency model to build massively parallel systems",
+      "Grasp the purpose of types, which is especially important if you're coming from a dynamically typed language like Javascript or Ruby",
+      "Organize code through the use of packages",
+      "Use the Go runtime to build and compile projects",
+      "Get insight into critical design decisions in the language",
+      "Gain a sense of when to use basic language features",
+      "And more"
+    ]
+  }
+]
